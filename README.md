@@ -3,6 +3,7 @@
 A 2D N-body gravity simulator written in Java (Swing). Click to drop planets, drag to give them velocity, and see whether they orbit or get flung into space.
 
 ![Gravity Playground](screenshot.png)
+[Watch the demo](https://youtu.be/FlZqW7MlSi0)
 
 ## Features
 - Click and drag to spawn planets, with a dotted line previewing the path
